@@ -3,7 +3,8 @@ import React from 'react';
 function ImageCards() {
   return (
    <>
-    <h1>Image Card</h1>
+    <h1>ImageCard</h1>
+    <h2>Hello world!</h2>
     </>
   );
 }
